@@ -1,7 +1,3 @@
-Here's the README profile for your repository **Learn HTML**:
-
----
-
 # Learn HTML
 
 Welcome to the **Learn HTML** repository. This repository contains projects and exercises aimed at learning and practicing HTML.
@@ -20,52 +16,6 @@ Welcome to the **Learn HTML** repository. This repository contains projects and 
 ## 📖 Introduction
 
 This repository serves as a collection of projects and exercises focused on learning HTML. Whether you're new to web development or looking to refine your HTML skills, these resources are designed to provide practical experience and examples.
-
----
-
-## 🚀 Projects
-
-### 1. Project Name 1
-
-- **Description:** Brief description of the project.
-- **Live Demo:** [Link to Live Demo](#)
-- **GitHub Repository:** [Link to GitHub Repository](#)
-
-### 2. Project Name 2
-
-- **Description:** Brief description of the project.
-- **Live Demo:** [Link to Live Demo](#)
-- **GitHub Repository:** [Link to GitHub Repository](#)
-
-### 3. Project Name 3
-
-- **Description:** Brief description of the project.
-- **Live Demo:** [Link to Live Demo](#)
-- **GitHub Repository:** [Link to GitHub Repository](#)
-
-Add more projects as needed.
-
----
-
-## 📁 Project Structure
-
-```plaintext
-Learn-HTML/
-├── project1/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-├── project2/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-└── project3/
-    ├── index.html
-    ├── style.css
-    └── script.js
-```
-
-Replace `project1`, `project2`, `project3` with actual project names and include respective files.
 
 ---
 

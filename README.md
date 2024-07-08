@@ -5,8 +5,6 @@ Welcome to the **Learn HTML** repository. This repository contains projects and 
 ## 📋 Contents
 
 - [Introduction](#introduction)
-- [Projects](#projects)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
